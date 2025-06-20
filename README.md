@@ -1,1 +1,1 @@
-Notes for issues in Linux and Windows
+Notes on issues, configurations, and customizations in Linux and Windows
