@@ -1,4 +1,4 @@
-Se descomprime la carpeta en:
+Unzip the folder in:
 ```sh
 ~/.local/share/plank/themes/
 ```
