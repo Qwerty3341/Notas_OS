@@ -4,3 +4,6 @@
 - Fedora Workstation
 - Fedora KDE
 - Fedora XFCE
+- Puppy
+- Ubuntu Mate
+- Lubuntu
