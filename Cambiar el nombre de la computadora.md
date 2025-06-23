@@ -14,8 +14,5 @@ Para cambiar el nombre de la compu se usan estos pasos.
 >A veces se requiere confirmar los cambios con el comando `nano /etc/hosts`, se abre el 
 
 
-
-
-
 5. Poner el mismo nombre en el renglón donde dice 127.0.1.1
 6. Confirmar los cambios
