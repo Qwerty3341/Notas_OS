@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Comandos de docker"
             }
+          },
+          {
+            "id": "41440de2eb115d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Checksum de linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Checksum de linux"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,10 +198,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "418651f2d7bcab81",
+  "active": "41440de2eb115d80",
   "lastOpenFiles": [
-    "Ejemplo de memoria con solo lectura con disk part.md",
     "Comandos de docker.md",
+    "Checksum de linux.md",
+    "Ejemplo de memoria con solo lectura con disk part.md",
     "Comandos de git.md",
     "Oh My posh powershell.md",
     "Diskpart para memoria.md",
