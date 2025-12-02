@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos de docker.md",
+                "file": "Linux/Git does not allow to make a push in a repositori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos de docker"
+              "title": "Git does not allow to make a push in a repositori"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "41440de2eb115d80",
   "lastOpenFiles": [
     "Comandos de docker.md",
+    "Linux/Git does not allow to make a push in a repositori.md",
     "Time changed in Windows dual boot with Linux.md",
     "Git push requires a token.md",
     "README.md",
