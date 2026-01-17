@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "729a6040ca648664",
+        "id": "1239311f1012a21b",
         "type": "tabs",
         "children": [
           {
-            "id": "07ffa1bab69eb6dc",
+            "id": "943e446595d100cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Conky.md",
+                "file": "Linux/Checksum de linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conky"
+              "title": "Checksum de linux"
             }
           }
         ]
@@ -169,32 +169,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "07ffa1bab69eb6dc",
+  "active": "943e446595d100cc",
   "lastOpenFiles": [
-    "Linux/Change theme on Plank.md",
-    "Linux/Instalar .tar.gz.md",
-    "Linux/Enable scroll in browsers for Linux.md",
-    "Linux/Checksum de linux.md",
+    "Linux/Repositorio pide contraseña.md",
     "Linux/Conky.md",
+    "Linux/Checksum de linux.md",
+    "Linux/Desinstalar distribución Linux.md",
     "Linux/Distribuciones probadas.md",
+    "Linux/Enable scroll in browsers for Linux.md",
     "Linux/Git does not allow to make a push in a repositori.md",
+    "Linux/Instalar .tar.gz.md",
+    "Linux/Instalar .deb.md",
+    "Linux/Change theme on Plank.md",
+    "Linux/Instalar python.md",
+    "Linux/XZ.md",
+    "Linux/Instalar tar.bz2.md",
+    "Configuraciones de bash.md",
+    "Linux/nanorc.md",
+    "Linux/Cambiar el nombre de la computadora.md",
+    "Linux/Venv in Linux.md",
     "Comandos de docker.md",
     "Time changed in Windows dual boot with Linux.md",
     "Git push requires a token.md",
     "README.md",
-    "Linux/nanorc.md",
-    "Linux/Instalar .deb.md",
     "Windows",
     "Linux",
     "Windows/Ejemplo de memoria con solo lectura con disk part.md",
     "Comandos de git.md",
     "Windows/Oh My posh powershell.md",
     "Windows/Diskpart para memoria.md",
-    "Linux/Removing Firefox.md",
-    "Linux/Cambiar el nombre de la computadora.md",
-    "Linux/Venv in Linux.md",
-    "Linux/Paqueterías de Fedora.md",
-    "Linux/Instalar tar.bz2.md",
-    "Linux/Desinstalar distribución Linux.md"
+    "Linux/Removing Firefox.md"
   ]
 }
