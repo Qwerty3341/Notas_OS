@@ -35,8 +35,7 @@
               "title": "Repositorio pide contraseña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c0190e271e68800",
+  "active": "943e446595d100cc",
   "lastOpenFiles": [
-    "Linux/Checksum de linux.md",
     "Linux/Repositorio pide contraseña.md",
+    "Linux/Checksum de linux.md",
     "Linux/Conky.md",
     "Linux/Desinstalar distribución Linux.md",
     "Linux/Distribuciones probadas.md",
