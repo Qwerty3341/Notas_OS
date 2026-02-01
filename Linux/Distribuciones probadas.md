@@ -7,3 +7,4 @@
 - Puppy
 - Ubuntu Mate
 - Lubuntu
+- Debian
