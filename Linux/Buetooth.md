@@ -97,3 +97,19 @@ bluetoothctl connect AA:BB:CC:DD:EE:FF
 ```
 remove AA:BB:CC:DD:EE:FF
 ```
+## Desconectar un dispositivo
+```
+bluetoothctl
+```
+
+```
+devices
+```
+
+```
+disconnect AA:BB:CC:DD:EE:FF
+```
+### Desconectar rápido
+```
+bluetoothctl disconnect AA:BB:CC:DD:EE:FF
+```

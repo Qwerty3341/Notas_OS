@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Buetooth.md",
+                "file": "Linux/Linux no puede montar OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buetooth"
+              "title": "Linux no puede montar OS"
             }
           }
         ]
@@ -171,32 +171,33 @@
   },
   "active": "dda2b30ad78083c5",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Linux/Conky se coloca en la pantalla secundaria.md",
+    "Linux/Linux no puede montar OS.md",
     "Linux/Conky.md",
-    "Linux/nmcli.md",
-    "Linux/nanorc.md",
-    "Linux/Instalar .deb.md",
-    "Linux/Instalar .tar.gz.md",
-    "Linux/Desempaquetar un AppImage.md",
-    "Linux/Instalar tar.bz2.md",
-    "Linux/Git does not allow to make a push in a repositori.md",
-    "Linux/Enable scroll in browsers for Linux.md",
-    "Linux/Distribuciones probadas.md",
-    "Linux/Desinstalar distribución Linux.md",
-    "Linux/Checksum de linux.md",
-    "Linux/Buetooth.md",
-    "Linux/Cambiar el nombre de la computadora.md",
-    "Linux/Change theme on Plank.md",
+    "Linux/XZ.md",
+    "Linux/Venv in Linux.md",
     "Linux/Repositorio pide contraseña.md",
     "Linux/Removing Firefox.md",
+    "Linux/Paqueterías de Fedora.md",
+    "Linux/nmcli.md",
+    "Linux/nanorc.md",
+    "Linux/Instalar tar.bz2.md",
+    "Linux/Instalar python.md",
+    "Linux/Instalar .tar.gz.md",
+    "Linux/Instalar .deb.md",
+    "Linux/Git does not allow to make a push in a repositori.md",
+    "Linux/Enable scroll in browsers for Linux.md",
+    "Linux/Desempaquetar un AppImage.md",
+    "Linux/Desinstalar distribución Linux.md",
+    "Linux/Distribuciones probadas.md",
+    "Linux/Cambiar el nombre de la computadora.md",
+    "Linux/Change theme on Plank.md",
+    "Linux/Buetooth.md",
+    "Untitled.base",
+    "Linux/Checksum de linux.md",
     "Comandos de docker.md",
     "Comandos de git.md",
     "Configuraciones de bash.md",
-    "Git push requires a token.md",
-    "Time changed in Windows dual boot with Linux.md",
-    "README.md",
-    "Linux/Instalar python.md",
-    "Linux/XZ.md",
     "Windows",
     "Linux"
   ]
