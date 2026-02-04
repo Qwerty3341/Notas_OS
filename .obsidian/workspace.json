@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/nmcli.md",
+                "file": "Linux/Buetooth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nmcli"
+              "title": "Buetooth"
             }
           }
         ]
@@ -171,17 +171,18 @@
   },
   "active": "dda2b30ad78083c5",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Linux/Conky.md",
+    "Linux/nmcli.md",
     "Linux/nanorc.md",
     "Linux/Instalar .deb.md",
     "Linux/Instalar .tar.gz.md",
     "Linux/Desempaquetar un AppImage.md",
     "Linux/Instalar tar.bz2.md",
-    "Linux/nmcli.md",
     "Linux/Git does not allow to make a push in a repositori.md",
     "Linux/Enable scroll in browsers for Linux.md",
     "Linux/Distribuciones probadas.md",
     "Linux/Desinstalar distribución Linux.md",
-    "Linux/Conky.md",
     "Linux/Checksum de linux.md",
     "Linux/Buetooth.md",
     "Linux/Cambiar el nombre de la computadora.md",
@@ -196,7 +197,6 @@
     "README.md",
     "Linux/Instalar python.md",
     "Linux/XZ.md",
-    "Linux/Venv in Linux.md",
     "Windows",
     "Linux"
   ]
