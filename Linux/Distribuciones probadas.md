@@ -1,9 +1,7 @@
 - Linux Mint 
 - Kali
 - Parrot OS 
-- Fedora Workstation
-- Fedora KDE
-- Fedora XFCE
+- Fedora 
 - Puppy
 - Ubuntu Mate
 - Lubuntu

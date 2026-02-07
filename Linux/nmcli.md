@@ -9,3 +9,4 @@ nmcli dev wifi connect "NOMBRE_DE_LA_RED" password "TU_CONTRASEÑA"
 # O editar conexiones guardadas
 nmcli connection edit "NOMBRE_DE_LA_CONEXION"
 ```
+

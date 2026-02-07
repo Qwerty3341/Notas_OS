@@ -6,3 +6,6 @@ Configuración que puse el sáb 29 mar 2025 03:27:48 CST
 ```shell
 set tabsize 4
 ```
+
+Manual de nano:
+https://www.nano-editor.org/dist/latest/nano.pdf

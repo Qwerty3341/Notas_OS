@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux no puede montar OS.md",
+                "file": "Linux/Buetooth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux no puede montar OS"
+              "title": "Buetooth"
+            }
+          },
+          {
+            "id": "da1e88dc824c147f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teclado AKKO 5075B plus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teclado AKKO 5075B plus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,35 +184,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "dda2b30ad78083c5",
+  "active": "da1e88dc824c147f",
   "lastOpenFiles": [
-    "Linux/Conky se coloca en la pantalla secundaria.md",
-    "Linux/Linux no puede montar OS.md",
-    "Linux/Conky.md",
-    "Linux/XZ.md",
-    "Linux/Venv in Linux.md",
-    "Linux/Repositorio pide contraseña.md",
+    "Untitled.base",
+    "Teclado AKKO 5075B plus.md",
+    "Linux/Buetooth.md",
     "Linux/Removing Firefox.md",
-    "Linux/Paqueterías de Fedora.md",
-    "Linux/nmcli.md",
-    "Linux/nanorc.md",
-    "Linux/Instalar tar.bz2.md",
-    "Linux/Instalar python.md",
+    "Linux/Linux no puede montar OS.md",
     "Linux/Instalar .tar.gz.md",
     "Linux/Instalar .deb.md",
-    "Linux/Git does not allow to make a push in a repositori.md",
-    "Linux/Enable scroll in browsers for Linux.md",
-    "Linux/Desempaquetar un AppImage.md",
+    "Linux/Venv in Linux.md",
+    "Linux/Checksum de linux.md",
+    "Linux/Conky.md",
     "Linux/Desinstalar distribución Linux.md",
+    "Linux/Desempaquetar un AppImage.md",
     "Linux/Distribuciones probadas.md",
+    "Comandos de docker.md",
     "Linux/Cambiar el nombre de la computadora.md",
     "Linux/Change theme on Plank.md",
-    "Linux/Buetooth.md",
-    "Untitled.base",
-    "Linux/Checksum de linux.md",
-    "Comandos de docker.md",
-    "Comandos de git.md",
-    "Configuraciones de bash.md",
+    "Linux/Git does not allow to make a push in a repositori.md",
+    "Linux/XZ.md",
+    "Linux/XFCE Terminal no quiere usar Ctrl+↑↓.md",
+    "Linux/Repositorio pide contraseña.md",
+    "Linux/nmcli.md",
+    "Linux/Paqueterías de Fedora.md",
+    "Linux/nanorc.md",
+    "Linux/Enable scroll in browsers for Linux.md",
+    "Linux/Instalar tar.bz2.md",
+    "Linux/Instalar python.md",
     "Windows",
     "Linux"
   ]
