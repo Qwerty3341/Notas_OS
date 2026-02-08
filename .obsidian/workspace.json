@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Redshift.md",
+                "file": "Linux/nanorc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redshift"
+              "title": "nanorc"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "da1e88dc824c147f",
   "lastOpenFiles": [
-    "Linux/Modificar lightdm.md",
+    "Linux/Conky.md",
     "Linux/Redshift.md",
+    "Linux/Modificar lightdm.md",
     "Teclado AKKO 5075B plus.md",
     "Untitled.base",
     "Linux/Buetooth.md",
@@ -197,7 +198,6 @@
     "Linux/Instalar .deb.md",
     "Linux/Venv in Linux.md",
     "Linux/Checksum de linux.md",
-    "Linux/Conky.md",
     "Linux/Desinstalar distribución Linux.md",
     "Linux/Desempaquetar un AppImage.md",
     "Linux/Distribuciones probadas.md",
