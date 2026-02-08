@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teclado AKKO 5075B plus.md",
+                "file": "Linux/Redshift.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teclado AKKO 5075B plus"
+              "title": "Redshift"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "da1e88dc824c147f",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Linux/Modificar lightdm.md",
+    "Linux/Redshift.md",
     "Teclado AKKO 5075B plus.md",
+    "Untitled.base",
     "Linux/Buetooth.md",
     "Linux/Removing Firefox.md",
     "Linux/Linux no puede montar OS.md",
@@ -211,7 +213,6 @@
     "Linux/nanorc.md",
     "Linux/Enable scroll in browsers for Linux.md",
     "Linux/Instalar tar.bz2.md",
-    "Linux/Instalar python.md",
     "Windows",
     "Linux"
   ]
