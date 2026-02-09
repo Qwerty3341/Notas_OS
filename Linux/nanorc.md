@@ -13,7 +13,7 @@ Cuando se ejecuta `sudo nano` el editor no carga el nanorc ya que está en el ho
 Para eso se puede modificar el `nanorc` del root que está en `/etc/nanorc`
 Puse esta configuración hasta el final del archivo
 
-```bash
+```sh
 set autoindent
 set brackets "characters"
 set linenumbers

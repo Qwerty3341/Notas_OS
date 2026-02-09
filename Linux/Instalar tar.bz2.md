@@ -1,3 +1,0 @@
-```shell
-tar -jxvf
-```
