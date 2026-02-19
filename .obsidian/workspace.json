@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Poner un tema global.md",
+                "file": "Linux/Descomprimir tar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poner un tema global"
+              "title": "Descomprimir tar"
             }
           }
         ]
@@ -171,9 +171,19 @@
   },
   "active": "da1e88dc824c147f",
   "lastOpenFiles": [
-    "Linux/Fondos de debian.md",
-    "Linux/Poner un tema global.md",
+    "Linux/Conky se coloca en la pantalla secundaria.md",
     "Linux/Descomprimir tar.md",
+    "Linux/Desinstalar distribución Linux.md",
+    "Linux/Distribuciones probadas.md",
+    "Linux/Enable scroll in browsers for Linux.md",
+    "Linux/Fondos de debian.md",
+    "Linux/Git does not allow to make a push in a repositori.md",
+    "Linux/Instalar .deb.md",
+    "Linux/Linux no puede montar OS.md",
+    "Linux/Instalar python.md",
+    "Linux/Desempaquetar un AppImage.md",
+    "Linux/Poner un tema global.md",
+    "Linux/Paqueterías de Fedora.md",
     "Linux/Instalar tar.bz2.md",
     "Linux/Redshift.md",
     "Linux/Instalar .tar.gz.md",
@@ -188,16 +198,6 @@
     "Teclado AKKO 5075B plus.md",
     "Untitled.base",
     "Linux/Buetooth.md",
-    "Linux/Removing Firefox.md",
-    "Linux/Linux no puede montar OS.md",
-    "Linux/Instalar .deb.md",
-    "Linux/Checksum de linux.md",
-    "Linux/Desinstalar distribución Linux.md",
-    "Linux/Desempaquetar un AppImage.md",
-    "Linux/Distribuciones probadas.md",
-    "Linux/Cambiar el nombre de la computadora.md",
-    "Linux/Change theme on Plank.md",
-    "Linux/Git does not allow to make a push in a repositori.md",
     "Windows",
     "Linux"
   ]
