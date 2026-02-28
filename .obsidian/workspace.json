@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux no puede montar la unidad OS.md",
+                "file": "Linux/Descomprimir tar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux no puede montar la unidad OS"
+              "title": "Descomprimir tar"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -160,19 +160,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "da1e88dc824c147f",
   "lastOpenFiles": [
-    "Linux/Descomprimir tar.md",
+    "Linux/Desempaquetar un AppImage.md",
     "Linux/Linux no puede montar la unidad OS.md",
+    "Linux/Descomprimir tar.md",
     "Linux/nmcli.md",
     "Linux/Poner un tema global.md",
     "Linux/Redshift.md",
@@ -190,7 +191,6 @@
     "Linux/Venv in Linux.md",
     "Linux/XFCE Terminal no quiere usar Ctrl+↑↓.md",
     "Linux/Conky se coloca en la pantalla secundaria.md",
-    "Linux/Desempaquetar un AppImage.md",
     "Linux/Paqueterías de Fedora.md",
     "Linux/Instalar tar.bz2.md",
     "Linux/Instalar .tar.gz.md",
