@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Descomprimir tar.md",
+                "file": "Linux/Linux Directories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Descomprimir tar"
+              "title": "Linux Directories"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.50634002685547
+    "width": 305.50634002685547,
+    "collapsed": true
   },
   "right": {
     "id": "7cdbf33181f023a8",
@@ -171,32 +172,35 @@
   },
   "active": "da1e88dc824c147f",
   "lastOpenFiles": [
-    "Linux/Desempaquetar un AppImage.md",
-    "Linux/Linux no puede montar la unidad OS.md",
-    "Linux/Descomprimir tar.md",
-    "Linux/nmcli.md",
-    "Linux/Poner un tema global.md",
-    "Linux/Redshift.md",
-    "Linux/Instalar .deb.md",
-    "Linux/Git does not allow to make a push in a repositori.md",
-    "Linux/Fondos de debian.md",
-    "Linux/Desinstalar distribución Linux.md",
-    "Linux/Distribuciones probadas.md",
-    "Linux/Enable scroll in browsers for Linux.md",
+    "Linux/configuraciones/Poner un tema global.md",
+    "Linux/Linux Directories.md",
+    "Linux/configuraciones/XFCE Terminal no quiere usar Ctrl+↑↓.md",
+    "Linux/comandos/XZ.md",
+    "Linux/configuraciones/git desconoce al usuario.md",
+    "Linux/tools/nmcli.md",
+    "Linux/configuraciones/Linux no puede montar la unidad OS.md",
+    "Linux/configuraciones/Instalar un font.md",
+    "Linux/tools/Mapa de caracteres en Linux.md",
     "Linux/Instalar python.md",
-    "Linux/Linux no puede montar OS.md",
-    "Linux/Modificar lightdm.md",
-    "Linux/Removing Firefox.md",
-    "Linux/Repositorio pide contraseña.md",
-    "Linux/Venv in Linux.md",
-    "Linux/XFCE Terminal no quiere usar Ctrl+↑↓.md",
-    "Linux/Conky se coloca en la pantalla secundaria.md",
-    "Linux/Paqueterías de Fedora.md",
-    "Linux/Instalar tar.bz2.md",
-    "Linux/Instalar .tar.gz.md",
-    "Comandos de git.md",
-    "Comandos de docker.md",
-    "Linux/Mapa de caracteres en Linux.md",
+    "Linux/tools",
+    "Linux/comandos",
+    "Linux/configuraciones",
+    "Linux/configuraciones/Generar token de git para linux.md",
+    "Linux/configuraciones/Git does not allow to make a push in a repositori.md",
+    "Linux/tools/Modificar lightdm.md",
+    "Linux/configuraciones/Fondos de debian.md",
+    "Linux/comandos/Instalar .deb.md",
+    "Linux/configuraciones/Enable scroll in browsers for Linux.md",
+    "Linux/Desinstalar distribución Linux.md",
+    "Linux/comandos/Desempaquetar un AppImage.md",
+    "Linux/configuraciones/Cambiar el nombre de la computadora.md",
+    "Linux/configuraciones/Change theme on Plank.md",
+    "Linux/tools/Checksum de linux.md",
+    "Linux/tools/Conky.md",
+    "Linux/tools/Conky se coloca en la pantalla secundaria.md",
+    "Linux/comandos/Descomprimir tar.md",
+    "Linux/Distribuciones probadas.md",
+    "Linux/tools/Redshift.md",
     "Untitled.base",
     "Windows",
     "Linux"
