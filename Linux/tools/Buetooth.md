@@ -7,6 +7,11 @@ Si no está lo instalamos con
 ```sh
 sudo apt install pipewire pipewire-audio pipewire-alsa pipewire-pulse wireplumber libspa-0.2-bluetooth
 ```
+Nos aseguramos de que pulse audio esté desinstalado  
+```shell
+sudo apt remove pulseaudio
+```
+
 https://usuariodebian.blogspot.com/2025/10/bluetooth-audio-en-debian-13.html
 # Por gestor de bluetooth
 Instalamos gestor de bluetooth
@@ -112,4 +117,8 @@ disconnect AA:BB:CC:DD:EE:FF
 ### Desconectar rápido
 ```
 bluetoothctl disconnect AA:BB:CC:DD:EE:FF
+```
+### Apagar el bluetooth
+```
+[bluetoothctl]> power off
 ```

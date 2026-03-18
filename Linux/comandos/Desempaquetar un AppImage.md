@@ -1,3 +1,0 @@
-```
-./imagen-*.AppImage --appimage-extract
-```
